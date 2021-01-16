@@ -7728,6 +7728,12 @@
     "type": "default"
   },
   {
+    "address": "0xae1eaae3f627aaca434127644371b67b18444051",
+    "symbol": "YOP",
+    "decimal": 8,
+    "type": "default"
+  },
+  {
     "address": "0xcbeaec699431857fdb4d37addbbdc20e132d4903",
     "symbol": "YOYOW",
     "decimal": 18,
